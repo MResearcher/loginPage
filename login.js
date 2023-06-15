@@ -1,4 +1,4 @@
-<script>
+
   document.getElementById('loginForm').addEventListener('submit', function(event) {
     // 阻止表单的默认提交行为
     event.preventDefault();
@@ -14,4 +14,4 @@
       alert('用户名或密码错误！');
     }
   });
-</script>
+
