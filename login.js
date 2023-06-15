@@ -1,5 +1,4 @@
-
-  document.getElementById('loginForm').addEventListener('submit', function(event) {
+document.getElementById('loginForm').addEventListener('submit', function(event) {
     // 阻止表单的默认提交行为
     event.preventDefault();
 
